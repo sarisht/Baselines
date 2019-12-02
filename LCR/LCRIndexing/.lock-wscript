@@ -1,0 +1,9 @@
+argv = ['./waf', 'configure']
+blddir = '/Users/sarisht/Desktop/LCR/LCR/LCRIndexing/build'
+commands = {'dist': 0, 'configure': True, 'distcheck': 0, 'install': 0, 'build': 0, 'clean': 0, 'distclean': 0, 'check': 0, 'uninstall': 0}
+cwd = '/Users/sarisht/Desktop/LCR/LCR/LCRIndexing'
+environ = {'GOPATH': '/Users/sarisht/go', 'TERM_SESSION_ID': '96D5E780-D360-4EEC-976D-91C7486B4D65', 'XPC_SERVICE_NAME': '0', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.mWltJx2K1Y/Listeners', 'LC_CTYPE': 'UTF-8', 'TERM_PROGRAM_VERSION': '404', 'SHELL': '/bin/bash', 'LOGNAME': 'sarisht', 'USER': 'sarisht', 'HOME': '/Users/sarisht', 'PATH': '/Users/sarisht/anaconda2/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/sarisht/go/bin', 'TMPDIR': '/var/folders/cg/19g_bmpx74xfp16j0jggswyh0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/private/tmp/com.apple.launchd.jvMRF4ti6n/Render', 'SHLVL': '2', 'SECURITYSESSIONID': '186a9', 'XPC_FLAGS': '0x0', 'PWD': '/Users/sarisht/Desktop/LCR/LCR/LCRIndexing', '_': './waf'}
+files = []
+hash = 0
+options = {'compile_targets': None, 'force': False, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'check_cxx_compiler': 'g++', 'destdir': '', 'keep': False, 'zones': '', 'blddir': '', 'prefix': '/usr/local/', 'download': False, 'srcdir': '', 'jobs': 4}
+srcdir = '/Users/sarisht/Desktop/LCR/LCR/LCRIndexing'

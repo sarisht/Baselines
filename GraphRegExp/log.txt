@@ -1,0 +1,581 @@
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~382 MB (12 s)
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~289 MB (10 s)
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+Successfully loaded the graph into memory: ~61 MB (2089 ms)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~89 MB (8685 ms)
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+Successfully loaded the graph into memory: ~145 MB (4198 ms)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~57 MB (8164 ms)
+Successfully loaded the graph into memory: ~150 MB (20 s)
+Successfully loaded the graph into memory: ~204 MB (29 s)
+Successfully loaded the graph into memory: ~269 MB (37 s)
+Successfully loaded the graph into memory: ~229 MB (39 s)
+Successfully loaded the graph into memory: ~349 MB (50 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+
+Creating memory structure for 101616 nodes and 541561 edges...
+
+Creating memory structure for 124739 nodes and 1064608 edges...
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 136218 nodes and 1512003 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 143920 nodes and 1858885 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 149156 nodes and 2234252 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~113 MB (16 s)
+Successfully loaded the graph into memory: ~55 MB (19 s)
+Successfully loaded the graph into memory: ~183 MB (27 s)
+Successfully loaded the graph into memory: ~144 MB (41 s)
+Successfully loaded the graph into memory: ~238 MB (45 s)
+Successfully loaded the graph into memory: ~295 MB (55 s)
+Successfully loaded the graph into memory: ~176 MB (57 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~78 MB (10 s)
+Successfully loaded the graph into memory: ~148 MB (22 s)
+Successfully loaded the graph into memory: ~164 MB (31 s)
+Successfully loaded the graph into memory: ~271 MB (38 s)
+Successfully loaded the graph into memory: ~218 MB (41 s)
+Successfully loaded the graph into memory: ~307 MB (48 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 101616 nodes and 541561 edges...
+
+Creating memory structure for 124739 nodes and 1064608 edges...
+
+Creating memory structure for 136218 nodes and 1512003 edges...
+
+Creating memory structure for 143920 nodes and 1858885 edges...
+
+Creating memory structure for 149156 nodes and 2234252 edges...
+Successfully loaded the graph into memory: ~116 MB (8041 ms)
+Successfully loaded the graph into memory: ~148 MB (14 s)
+Successfully loaded the graph into memory: ~198 MB (20 s)
+Successfully loaded the graph into memory: ~284 MB (25 s)
+Successfully loaded the graph into memory: ~279 MB (34 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~158 MB (17 s)
+Successfully loaded the graph into memory: ~163 MB (25 s)
+Successfully loaded the graph into memory: ~261 MB (30 s)
+Successfully loaded the graph into memory: ~292 MB (31 s)
+Successfully loaded the graph into memory: ~373 MB (38 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 101616 nodes and 541561 edges...
+
+Creating memory structure for 124739 nodes and 1064608 edges...
+
+Creating memory structure for 136218 nodes and 1512003 edges...
+
+Creating memory structure for 143920 nodes and 1858885 edges...
+
+Creating memory structure for 149156 nodes and 2234252 edges...
+Successfully loaded the graph into memory: ~93 MB (8035 ms)
+Successfully loaded the graph into memory: ~146 MB (12 s)
+Successfully loaded the graph into memory: ~240 MB (19 s)
+Successfully loaded the graph into memory: ~217 MB (23 s)
+Successfully loaded the graph into memory: ~248 MB (30 s)
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 47456 nodes and 580143 edges...
+Successfully loaded the graph into memory: ~60 MB (1929 ms)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 84494 nodes and 1202444 edges...
+
+Creating memory structure for 105330 nodes and 1561326 edges...
+
+Creating memory structure for 120584 nodes and 1863105 edges...
+
+Creating memory structure for 128581 nodes and 2011526 edges...
+
+Creating memory structure for 151871 nodes and 2541859 edges...
+Successfully loaded the graph into memory: ~125 MB (18 s)
+Successfully loaded the graph into memory: ~170 MB (25 s)
+Successfully loaded the graph into memory: ~260 MB (30 s)
+Successfully loaded the graph into memory: ~265 MB (32 s)
+Successfully loaded the graph into memory: ~276 MB (40 s)
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+
+GraphRegExp - find regular expression paths in big graphs
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+
+
+
+
+
+
+Number of processors available: 4
+Author: Andre Koschmieder, HU Berlin
+
+
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+Loading Graph into memory... please wait! (free: 126 MB, max: 2048 MB, total: 128 MB)
+
+Creating memory structure for 101616 nodes and 541561 edges...
+
+Creating memory structure for 124739 nodes and 1064608 edges...
+
+Creating memory structure for 136218 nodes and 1512003 edges...
+
+Creating memory structure for 143920 nodes and 1858885 edges...
+
+Creating memory structure for 149156 nodes and 2234252 edges...
+Successfully loaded the graph into memory: ~102 MB (6926 ms)
+Successfully loaded the graph into memory: ~148 MB (12 s)
+Successfully loaded the graph into memory: ~223 MB (18 s)
+Successfully loaded the graph into memory: ~284 MB (22 s)
+Successfully loaded the graph into memory: ~280 MB (29 s)
